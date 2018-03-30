@@ -1,0 +1,143 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+  
+  }
+  
+  body {
+    background-image: url("../images/wavegrid.png");
+    font-family: 'Ariel, sans-serif';
+  }
+
+  .container-fluid {
+    background-color: white;
+  }
+
+  .navbar-header {
+    margin-bottom: -1px;
+    margin-top: -1px;
+    margin-left: 5px;
+  }
+
+  navBar {
+    background: white;
+  }
+
+  h2 {
+    display: inline;
+    color: white;  
+  }
+  .navbar-brand {
+    background: #4aaaa5;
+    height: 60px;
+  }
+
+  .navbar-right {
+    font-size: 16px;
+  }
+  
+  li {
+    color: #777777;
+  }
+  
+  navbar a {
+    text-decoration: none;
+    color: #777777;
+  }
+
+  h3 {
+    color: #4aaaa5;
+  }
+  
+  hr {
+    border-width: thin;
+    border-color: #ccc;
+    border-style: solid;
+  }
+
+  .line {
+    padding-bottom: 10px;
+  }
+  .container {
+    background-color: white;
+    width: 960px;
+    height: 400px;
+  }
+
+  .container section {
+    background-color: white;
+    width: 960px;
+  }
+
+  .paragraph {
+    font-size: 17px;
+    color: #777777;
+    padding-left: 0px;
+  }
+
+  img {
+    height: 200px;
+    width: 200px;
+  }
+
+  .bottom {
+    background-color: #666666;
+    border-top: 5px solid #4aaaa5;
+    height: 50px;
+  }
+
+  .copyright {
+    color: white;
+    font-size: small;
+    margin: auto;
+    line-height: 5;
+  }
+  
+  .myPortfolio {
+    height: 100%;
+  }
+
+  .leftPicture {
+    margin-right: -10px;
+    height: 180px;
+  }
+
+  .rightPicture {
+    margin-left: -10px;
+    height: 180px;
+  }
+
+  .textBlock {
+    position: relative;
+    bottom: 60px;
+    left: 0px;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    width: 200px;
+  }
+
+  .myContact {
+    height: 550px;
+  }
+
+  input {
+    width: 928px;
+  }
+
+  .topform {
+    height: 200px;
+  }
+
+  .messageSection input {
+    height: 200px;
+  }
+
+  .submit input {
+    border: none;
+    background-color:#4aaaa5;
+    color: white;
+    width: 100px;
+    height: 30px;
+  } 
